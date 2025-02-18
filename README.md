@@ -1,6 +1,6 @@
 # **Evaluation Report: Predicting Heart Attack Likelihood**
 
-## Name: Khushi Naik
+## Name: Varun Mehta
 
 ## **1\. Introduction**
 
